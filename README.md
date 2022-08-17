@@ -1,4 +1,4 @@
-技能区域
+### 技能区域
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -9,5 +9,13 @@
 ![](https://img.shields.io/badge/-Springboot-oringe?style=flat-square&logo=springboot)
 ![](https://img.shields.io/badge/-Node.js-oringe?style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/-Hexo-oringe?style=flat-square&logo=hexo)
-![](https://img.shields.io/badge/-C-oringe?style=flat-square&logo=C)
+
+### 自我介绍
+专升本在读，计划往全栈偏后端程序员发展。主要在自己的网站[EldPepar](https://eldpepar.com)和[阳光沙滩](https://www.sunofbeach.net/)活跃。阳光沙滩的id是robin
+
+### 打卡记录
+[![](https://github-readme-streak-stats.herokuapp.com/?user=eldpepar)](https://git.io/streak-stats)
+
+### 活动统计
+[![](https://activity-graph.herokuapp.com/graph?username=eldpepar&theme=xcode)](https://github.com/eldpepar)
 
