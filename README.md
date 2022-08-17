@@ -16,6 +16,3 @@
 ### 打卡记录
 [![](https://github-readme-streak-stats.herokuapp.com/?user=eldpepar)](https://git.io/streak-stats)
 
-### 活动统计
-[![](https://activity-graph.herokuapp.com/graph?username=eldpepar&theme=xcode)](https://github.com/eldpepar)
-
