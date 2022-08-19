@@ -9,4 +9,4 @@
 #### 平台
 主要在自己的网站[EldPepar](https://eldpepar.com)和[阳光沙滩](https://www.sunofbeach.net/)活跃。阳光沙滩的id是robin
 ### 打卡记录
-[![](https://github-readme-streak-stats.herokuapp.com/?user=eldpepar)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eldpepar&theme=ayu-light&hide_border=true&locale=zh)](https://git.io/streak-stats)
