@@ -11,10 +11,20 @@
 讲述的是一个王子没有快乐，在指引下来到了欲海的冒险故事。是一部画风比较独特的动画！
 #### 学历
 专升本在读📖
+
+学过移动互联应用技术📱
+
+学过是信息工程✉️
 #### 计划
-往全栈偏后端程序员发展，最后根据实际情况选择从事哪个方向
+全栈偏后端发展💻
+
+试着考个研🎓
+
+
 #### 平台
-主要在自己的网站[EldPepar](https://eldpepar.com)和[阳光沙滩](https://www.sunofbeach.net/)活跃。阳光沙滩的id是[robin](https://www.sunofbeach.net/u/1206836916729733120)
+主要在自己的网站[EldPepar](https://eldpepar.com)和[阳光沙滩](https://www.sunofbeach.net/)活跃。
+
+阳光沙滩的id是[robin](https://www.sunofbeach.net/u/1206836916729733120)
 ### 打卡记录
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eldpepar&theme=ayu-light&hide_border=true&locale=zh)](https://git.io/streak-stats)
+<a><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=eldpepar&theme=ayu-light&hide_border=true&locale=zh" height = 180px/></a>
 
