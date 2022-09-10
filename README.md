@@ -1,6 +1,6 @@
 ### 统计信息
-<a weight=600px><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldpepar&hide_title=true&layout=compact" height=120px/></a>
-<a weight=600px><img align="center" src="https://github-readme-stats.vercel.app/api?username=eldpepar&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" height=120px/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldpepar&hide_title=true&layout=compact" height=120px weight=300px/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=eldpepar&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" height=120px weight=300px/></a>
 
 
 ### 自我介绍
