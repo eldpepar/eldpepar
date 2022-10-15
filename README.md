@@ -27,9 +27,8 @@
 3.写一个后端比较复杂，涉及技术尽可能多的毕设
 
 #### 平台
-主要在自己的网站[EldPepar](https://eldpepar.com)和[阳光沙滩](https://www.sunofbeach.net/)活跃。
+主要在自己的网站[EldPepar](https://eldpepar.com)活跃
 
-阳光沙滩的id是[robin](https://www.sunofbeach.net/u/1206836916729733120)
 ### 打卡记录
 <a><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=eldpepar&theme=ayu-light&hide_border=true&locale=zh" height = 180px/></a>
 
